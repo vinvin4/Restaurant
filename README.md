@@ -1,2 +1,2 @@
 # Restaurant
-Restaurant model. Showing Fabricant method and Singleton patterns
+Restaurant model. Showing Factory method and Singleton patterns
